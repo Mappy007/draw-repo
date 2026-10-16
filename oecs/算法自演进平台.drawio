@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="第 1 页" id="99zTVYJVm8Cl_Zcl6-VQ">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="传统算法开发的基本流程" id="99zTVYJVm8Cl_Zcl6-VQ">
     <mxGraphModel dx="836" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -70,89 +70,8 @@
         <mxCell id="3NY4BCpSXZ_tcgJmhN7b-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="测试通过达成目标" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-19" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="组网生成器" vertex="1">
-          <mxGeometry height="30" width="120" x="630" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-21" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="通信生成器" vertex="1">
-          <mxGeometry height="30" width="120" x="630" y="1045" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-23" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="故障生成器" vertex="1">
-          <mxGeometry height="30" width="120" x="630" y="1090" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-25" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-26" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="拓扑规划算法" vertex="1">
-          <mxGeometry height="30" width="120" x="780" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-27" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置组网" vertex="1">
-          <mxGeometry height="30" width="120" x="930" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-29" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-30" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置流量" vertex="1">
-          <mxGeometry height="30" width="120" x="930" y="1045" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-32" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-33" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="集合通信算法" vertex="1">
-          <mxGeometry height="30" width="120" x="780" y="1045" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-34" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置故障" vertex="1">
-          <mxGeometry height="30" width="120" x="930" y="1090" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-36" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-37" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-38" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="端口分配算法" vertex="1">
-          <mxGeometry height="30" width="120" x="1130" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-39" edge="1" parent="1" source="3NY4BCpSXZ_tcgJmhN7b-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3NY4BCpSXZ_tcgJmhN7b-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-40" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="路由均衡算法" vertex="1">
-          <mxGeometry height="30" width="120" x="1130" y="1075" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置光交换机" vertex="1">
-          <mxGeometry height="30" width="120" x="1280" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置电交换机" vertex="1">
-          <mxGeometry height="30" width="120" x="1280" y="1075" as="geometry" />
-        </mxCell>
         <mxCell id="3NY4BCpSXZ_tcgJmhN7b-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="传统算法开发的基本流程" vertex="1">
-          <mxGeometry height="30" width="320" x="620" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="算法“自”演进的基本流程" vertex="1">
-          <mxGeometry height="30" width="320" x="620" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="STEP1:&amp;nbsp;查询资料" vertex="1">
-          <mxGeometry height="60" width="120" x="690" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="3NY4BCpSXZ_tcgJmhN7b-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="860" y="690" as="geometry" />
+          <mxGeometry height="30" width="320" x="630" y="250" as="geometry" />
         </mxCell>
         <mxCell id="3NY4BCpSXZ_tcgJmhN7b-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="4~12 人周" vertex="1">
           <mxGeometry height="30" width="79" x="881" y="300" as="geometry" />
@@ -177,6 +96,86 @@
         </mxCell>
         <mxCell id="3NY4BCpSXZ_tcgJmhN7b-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="4~8 人周" vertex="1">
           <mxGeometry height="30" width="79" x="1051" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BLgiKGwjXPYyJvcFxj2a" name="光电混合集群">
+    <mxGraphModel dx="1735" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-1" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="组网生成器" vertex="1">
+          <mxGeometry height="30" width="120" x="20" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-3" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="通信生成器" vertex="1">
+          <mxGeometry height="30" width="120" x="20" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-5" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b0CaZJQdTvq-dGxx6RoN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="故障生成器" vertex="1">
+          <mxGeometry height="30" width="120" x="20" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-7" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="拓扑规划算法" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-9" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置组网" vertex="1">
+          <mxGeometry height="30" width="120" x="320" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-11" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-12" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置流量" vertex="1">
+          <mxGeometry height="30" width="120" x="320" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-14" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-15" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="集合通信算法" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-16" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置故障" vertex="1">
+          <mxGeometry height="30" width="120" x="320" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-18" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-19" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-20" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="端口分配算法" vertex="1">
+          <mxGeometry height="30" width="120" x="520" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-21" edge="1" parent="1" source="b0CaZJQdTvq-dGxx6RoN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b0CaZJQdTvq-dGxx6RoN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-22" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="路由均衡算法" vertex="1">
+          <mxGeometry height="30" width="120" x="520" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置光交换机" vertex="1">
+          <mxGeometry height="30" width="120" x="670" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="b0CaZJQdTvq-dGxx6RoN-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配置电交换机" vertex="1">
+          <mxGeometry height="30" width="120" x="670" y="455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
